@@ -1,0 +1,22 @@
+{
+  "name": "koa-api",
+  "version": "1.0.0",
+  "description": "koa application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castorker/koa-api.git"
+  },
+  "author": "aeos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castorker/koa-api/issues"
+  },
+  "homepage": "https://github.com/castorker/koa-api#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
